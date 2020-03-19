@@ -3,5 +3,5 @@ Eight Puzzle consists of a 3 x 3 board of sliding tiles with a single empty spac
 
 # Instruction
 Use CMD in the file location, enter:\
-python homework3_tile_puzzle_gui.py rows cols\
+python tile_puzzle_gui.py rows cols\
 Tile Game ready to play!
