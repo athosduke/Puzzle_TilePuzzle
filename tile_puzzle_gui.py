@@ -1,7 +1,7 @@
 import sys
 import tkinter
 
-import homework3
+import puzzle
 
 class Tile(tkinter.Canvas):
 
